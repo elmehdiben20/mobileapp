@@ -6,7 +6,7 @@ void main() {
     home: Scaffold(
       backgroundColor: Colors.blue[200],
       appBar: AppBar(
-        title: Text('Testm'),
+        title: Text('Test'),
         backgroundColor: Colors.blue[300],
       ),
       body: Center(
